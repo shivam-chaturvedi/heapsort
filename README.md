@@ -42,4 +42,4 @@ Sorted Array: -9 -8 -1 0 0 2 3 3 4 5 6 7 9 9 34 44 45 65 77 87
 ## ASMR Coding Video
 Check out the full ASMR coding session where this algorithm is implemented with clear comments and relaxing keystrokes – no voice, just pure coding!
 
-[Watch the ASMR Video](https://shivamchaturvedi.vercel.app/codesnippets#9)
+[Watch the ASMR Video](https://youtu.be/pxTo3wIHrQM)
